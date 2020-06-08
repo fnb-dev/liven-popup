@@ -23,7 +23,7 @@
         
         
         
-        /*$('#popup-inner').draggable({
+        $('#popup-inner').draggable({
             revert: true,
             drag: function (e, ui) {
                 
@@ -44,7 +44,7 @@
                 });
                 return !e;
             }
-        });*/
+        });
 
 
 
